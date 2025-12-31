@@ -17,6 +17,7 @@ class Note extends Model
         'color',
         'is_pinned',
         'is_archived',
+        'image',
     ];
 
     //relasi ke user
